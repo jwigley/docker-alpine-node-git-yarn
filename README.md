@@ -1,5 +1,9 @@
 # alpine-node-git-yarn
 
+[![Docker Build Status](https://img.shields.io/docker/build/jwigley/alpine-node-git-yarn.svg)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jwigley/alpine-node-git-yarn.svg)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
+[![Docker Automated build](https://img.shields.io/docker/automated/jwigley/alpine-node-git-yarn.svg)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
+
 A lightweight [alpine linux](https://alpinelinux.org) docker image containing node, yarn and git.
 
 ## usage
