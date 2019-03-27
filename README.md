@@ -17,5 +17,6 @@ docker run -t jwigley/alpine-node-git-yarn
 **Tag**|**Description**
 -----|-----
 `latest`|latest alpine, node, git and yarn
+`node-10`|alpine, node 10.x.x, git and yarn
 `node-6`|alpine, node 6.x.x, git and yarn
 `node-6.10.3`|alpine, node 6.10.3, git and yarn
