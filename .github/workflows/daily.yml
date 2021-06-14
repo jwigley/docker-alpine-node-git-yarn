@@ -57,5 +57,5 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/${DOCKER_REPO}:${DOCKER_TAG}
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.DOCKER_REPO }}:${{ env.DOCKER_TAG}}
         if: steps.check-upstream.outputs.upstream == 'changed'
