@@ -1,4 +1,4 @@
-name: Master
+name: master
 
 # Build and push to docker hub
 on:
