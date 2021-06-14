@@ -10,7 +10,7 @@ jobs:
   docker:
     runs-on: ubuntu-latest
     env:
-      UPSTREAM_REPO: https://hub.docker.com/v2/repositories/library/node/tags/14-alpine
+      UPSTREAM_REPO: https://hub.docker.com/v2/repositories/library/node/tags/16-alpine
       DOCKER_REPO: alpine-node-git-yarn
       DOCKER_TAG: node-16
     steps:
