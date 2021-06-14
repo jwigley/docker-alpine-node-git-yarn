@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DOCKER_REPO: alpine-node-git-yarn
-      DOCKER_TAG: latest
+      DOCKER_TAG: node-14
     steps:
       - name: Checkout
         uses: actions/checkout@v2
