@@ -1,7 +1,7 @@
 # alpine-node-git-yarn
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jwigley/docker-alpine-node-git-yarn/Master?label=build%20%28master%29)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jwigley/docker-alpine-node-git-yarn/Daily?label=build%20%28nightly%29)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jwigley/docker-alpine-node-git-yarn/master?label=build%20%28master%29)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jwigley/docker-alpine-node-git-yarn/nightly?label=build%20%28nightly%29)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
 [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/jwigley/alpine-node-git-yarn/latest)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jwigley/alpine-node-git-yarn.svg)](https://hub.docker.com/r/jwigley/alpine-node-git-yarn/)
 
