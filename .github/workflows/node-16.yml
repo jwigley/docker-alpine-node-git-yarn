@@ -1,17 +1,17 @@
-name: node-14
+name: node-16
 
 # Build and push to docker hub
 on:
   # run on any pushes to master branch
   push:
-    branches: node-14
+    branches: node-16
 
 jobs:
   docker:
     runs-on: ubuntu-latest
     env:
       DOCKER_REPO: alpine-node-git-yarn
-      DOCKER_TAG: node-14
+      DOCKER_TAG: node-16
     steps:
       - name: Checkout
         uses: actions/checkout@v2
