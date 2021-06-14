@@ -1,4 +1,4 @@
-name: Master
+name: node-14
 
 # Build and push to docker hub
 on:

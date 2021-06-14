@@ -1,8 +1,8 @@
-name: Daily
+name: node-14 (nightly)
 
 # Build and push to docker hub (if upstream changed in the last day)
 on:
-  # run daily
+  # run nightly
   schedule:
     - cron:  '14 14 * * *'
 
