@@ -27,6 +27,9 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref:
+            node-16
         if: steps.check-upstream.outputs.upstream == 'changed'
 
       - name: Set up Docker Buildx
